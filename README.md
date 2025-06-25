@@ -12,5 +12,5 @@ do Bootcamp de Java Santander Dio 2025.
 
 | Aulas | Resumos |
 |-------|---------|
-|Gravando Alterações em Repositório Local| [Resumos]()|
+|Gravando Alterações em Repositório Local| [Resumo]()|
 
